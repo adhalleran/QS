@@ -1,0 +1,120 @@
+LOCUS       ADH_021                 3171 bp    DNA     circular UNA 24-APR-2017
+DEFINITION  pLux deGFP P5m - U4d - C2m - T2m into DVK_AE.
+ACCESSION   urn.local.andrewhalleran.k-7qa160h
+VERSION     urn.local.andrewhalleran.k-7qa160h
+KEYWORDS    .
+SOURCE      
+  ORGANISM  
+            .
+FEATURES             Location/Qualifiers
+     misc_feature    1..>77
+                     /note="Geneious type: Editing History Insertion"
+     misc_feature    1..4
+                     /note="Geneious type: ligation"
+     misc_feature    complement(<5..24)
+     misc_feature    25..44
+     promoter        25..>73
+     promoter        44..49
+     promoter        66..71
+     misc_feature    74..77
+                     /note="Geneious type: ligation"
+     misc_feature    74..165
+                     /note="Geneious type: Concatenated sequence"
+     5'UTR           78..161
+     misc_feature    162..165
+                     /note="Geneious type: ligation"
+     misc_feature    162..877
+                     /note="Geneious type: Concatenated sequence"
+     misc_feature    166..873
+                     /note="Geneious type: Editing History Insertion"
+     source          <166..>873
+     misc_feature    <166..>873
+                     /note="Geneious type: PCR_product"
+     misc_feature    <166..873
+     misc_feature    <166..>873
+                     /note="Geneious type: ORF"
+     misc_feature    <166..873
+                     /note="Geneious type: ORF"
+     misc_feature    complement(<166..>873)
+                     /note="Geneious type: ORF"
+     misc_feature    complement(182..199)
+                     /note="Geneious type: PCR_primer"
+     primer_bind     496..515
+     primer_bind     579..598
+     misc_feature    complement(644..>873)
+                     /note="Geneious type: ORF"
+     misc_feature    complement(654..671)
+                     /note="Geneious type: primer_bind_reverse"
+     primer_bind     complement(826..873)
+     misc_feature    867
+     misc_feature    874..877
+                     /note="Geneious type: ligation"
+     misc_feature    874..944
+                     /note="Geneious type: Concatenated sequence"
+     misc_feature    878..940
+                     /note="Geneious type: Editing History Replacement"
+     terminator      880..932
+     misc_feature    941..944
+                     /note="Geneious type: ligation"
+     misc_feature    941..77
+                     /note="Geneious type: Concatenated sequence"
+     misc_feature    945..3171
+     primer_bind     945..963
+     primer_bind     complement(1105..1125)
+     primer_bind     3066..3086
+     primer_bind     complement(3152..3171)
+ORIGIN      
+        1 ggagtgctgt tccgctgggc atgcacctgt aggatcgtac aggtttacgc aagaaaatgg
+       61 tttgttatag tcgtactggg cccaagttca cttaaaaagg agatcaacaa tgaaagcaat
+      121 tttcgtactg aaacatctta atcatgctaa ggaggttttc taatggagct tttcactggc
+      181 gttgttccca tcctggtcga gctggacggc gacgtaaacg gccacaagtt cagcgtgtcc
+      241 ggcgagggcg agggcgatgc cacctacggc aagctgaccc tgaagttcat ctgcaccacc
+      301 ggcaagctgc ccgtgccctg gcccaccctc gtgaccaccc tgacctacgg cgtgcagtgc
+      361 ttcagccgct accccgacca catgaagcag cacgacttct tcaagtccgc catgcccgaa
+      421 ggctacgtcc aggagcgcac catcttcttc aaggacgacg gcaactacaa gacccgcgcc
+      481 gaggtgaagt tcgagggcga caccctggtg aaccgcatcg agctgaaggg catcgacttc
+      541 aaggaggacg gcaacatcct ggggcacaag ctggagtaca actacaacag ccacaacgtc
+      601 tatatcatgg ccgacaagca gaagaacggc atcaaggtga acttcaagat ccgccacaac
+      661 atcgaggacg gcagcgtgca gctcgccgac cactaccagc agaacacccc catcggcgac
+      721 ggccccgtgc tgctgcccga caaccactac ctgagcaccc agtccgccct gagcaaagac
+      781 cccaacgaga agcgcgatca catggtcctg ctggagttcg tgaccgccgc cgggatcgca
+      841 gcaaacgacg aaaactacgc tttagctgct taaaggtcta acgcatgaga aagcccccgg
+      901 aagatcacct tccgggggct tttttattgc gcccttgaga gcttatgtct tctactagta
+      961 gcggccgctg cagtccggca aaaaagggca aggtgtcacc accctgccct ttttctttaa
+     1021 aaccgaaaag attacttcgc gttatgcagg cttcctcgct cactgactcg ctgcgctcgg
+     1081 tcgttcggct gcggcgagcg gtatcagctc actcaaaggc ggtaatacgg ttatccacag
+     1141 aatcagggga taacgcagga aagaacatgt gagcaaaagg ccagcaaaag gccaggaacc
+     1201 gtaaaaaggc cgcgttgctg gcgtttttcc acaggctccg cccccctgac gagcatcaca
+     1261 aaaatcgacg ctcaagtcag aggtggcgaa acccgacagg actataaaga taccaggcgt
+     1321 ttccccctgg aagctccctc gtgcgctctc ctgttccgac cctgccgctt accggatacc
+     1381 tgtccgcctt tctcccttcg ggaagcgtgg cgctttctca tagctcacgc tgtaggtatc
+     1441 tcagttcggt gtaggtcgtt cgctccaagc tgggctgtgt gcacgaaccc cccgttcagc
+     1501 ccgaccgctg cgccttatcc ggtaactatc gtcttgagtc caacccggta agacacgact
+     1561 tatcgccact ggcagcagcc actggtaaca ggattagcag agcgaggtat gtaggcggtg
+     1621 ctacagagtt cttgaagtgg tggcctaact acggctacac tagaagaaca gtatttggta
+     1681 tctgcgctct gctgaagcca gttaccttcg gaaaaagagt tggtagctct tgatccggca
+     1741 aacaaaccac cgctggtagc ggtggttttt ttgtttgcaa gcagcagatt acgcgcagaa
+     1801 aaaaaggatc tcaagaagat cctttgatct tttctacggg gtctgacgct cagtggaacg
+     1861 aaaactcacg ttaagggatt ttggtcatga gattatcaaa aaggatcttc acctagatcc
+     1921 ttttaaatta aaaatgaagt tttaaatcaa tctaaagtat atatgagtaa acttggtctg
+     1981 acagctcgag tcccgtcaag tcagcgtaat gctctgccag tgttacaacc aattaaccaa
+     2041 ttctgattag aaaaactcat cgagcatcaa atgaaactgc aatttattca tatcaggatt
+     2101 atcaatacca tatttttgaa aaagccgttt ctgtaatgaa ggagaaaact caccgaggca
+     2161 gttccatagg atggcaagat cctggtatcg gtctgcgatt ccgactcgtc caacatcaat
+     2221 acaacctatt aatttcccct cgtcaaaaat aaggttatca agtgagaaat caccatgagt
+     2281 gacgactgaa tccggtgaga atggcaaaag cttatgcatt tctttccaga cttgttcaac
+     2341 aggccagcca ttacgctcgt catcaaaatc actcgcatca accaaaccgt tattcattcg
+     2401 tgattgcgcc tgagcgagac gaaatacgcg atcgctgtta aaaggacaat tacaaacagg
+     2461 aatcgaatgc aaccggcgca ggaacactgc cagcgcatca acaatatttt cacctgaatc
+     2521 aggatattct tctaatacct ggaatgctgt tttcccgggg atcgcagtgg tgagtaacca
+     2581 tgcatcatca ggagtacgga taaaatgctt gatggtcgga agaggcataa attccgtcag
+     2641 ccagtttagt ctgaccatct catctgtaac atcattggca acgctacctt tgccatgttt
+     2701 cagaaacaac tctggcgcat cgggcttccc atacaatcga tagattgtcg cacctgattg
+     2761 cccgacatta tcgcgagccc atttataccc atataaatca gcatccatgt tggaatttaa
+     2821 tcgcggcctg gagcaagacg tttcccgttg aatatggctc ataacacccc ttgtattact
+     2881 gtttatgtaa gcagacagtt ttattgttca tgatgatata tttttatctt gtgcaatgta
+     2941 acatcagaga ttttgagaca caacgtggct ttgttgaata aatcgaactt ttgctgagtt
+     3001 gaaggatcag ctcgagtgcc acctgacgtc taagaaacca ttattatcat gacattaacc
+     3061 tataaaaata ggcgtatcac gaggcagaat ttcagataaa aaaaatcctt agctttcgct
+     3121 aaggatgatt tctggaattc gcggccgctt ctagagacta gtggaagaca t
+//
